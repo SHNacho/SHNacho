@@ -9,6 +9,10 @@
 
 ### Hi there 👋
 
+## About Me:
+- 🌱 I'm currently studying Computer Science and Business Administration at the University of Granada. 
+- 🔭 In the field of Computer Science I'm studying Artificial Inteligence
+
 <!--
 **SHNacho/SHNacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
