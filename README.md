@@ -8,6 +8,7 @@
  </div>
 
 ### In progress 👋
+---
 
 ## About Me:
 - 🌱 I'm currently studying Computer Science and Business Administration at the University of Granada. 
