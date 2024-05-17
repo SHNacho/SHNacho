@@ -6,10 +6,6 @@ Hi there! I'm Nacho, a passionate data scientist currently working in the field 
 ## Professional Background
 I have a strong background in data science, with hands-on experience in various projects ranging from predictive modeling to deep learning. My work involves using advanced statistical methods and machine learning algorithms to derive insights and build predictive models that drive decision-making.
 
-## Featured Project
-### [CNN-EyeGender](https://github.com/SHNacho/CNN-EyeGender)
-One of my favorite projects is **CNN-EyeGender**, where I developed a convolutional neural network to predict the gender of a person based solely on an image of their eye. This project combines my interests in computer vision and deep learning, and it showcases the potential of neural networks in image classification tasks.
-
 ## My Repositories
 Here are some categories of projects you can find on my GitHub:
 
