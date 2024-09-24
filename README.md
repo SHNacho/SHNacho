@@ -17,13 +17,14 @@ Here are some categories of projects you can find on my GitHub:
 ## Skills
 - **Programming Languages**: Python, R, Scala
 - **Machine Learning Libraries**: scikit-learn, TensorFlow, Keras, PyTorch
+- **NLP**: HuggingFace, LangChain, Ollama
 - **Data Visualization**: Matplotlib, Seaborn
-- **Other Tools**: SQL, Git, Docker
+- **Other Tools**: SQL, Git, Docker, Streamlit
 
 ## Connect with Me
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/shnacho/)
 
 Thanks for visiting my GitHub page!
 
