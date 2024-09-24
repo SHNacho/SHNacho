@@ -15,7 +15,7 @@ Here are some categories of projects you can find on my GitHub:
 - **Computer Vision**: Specialized projects in image processing and computer vision, such as my [CNN-EyeGender](https://github.com/SHNacho/CNN-EyeGender) project.
 
 ## Skills
-- **Programming Languages**: Python, R, Scala
+- **Programming Languages**: Python, R, Scala, C++
 - **Machine Learning Libraries**: scikit-learn, TensorFlow, Keras, PyTorch
 - **NLP**: HuggingFace, LangChain, Ollama
 - **Data Visualization**: Matplotlib, Seaborn
