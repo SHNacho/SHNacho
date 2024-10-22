@@ -1,7 +1,7 @@
 # Welcome to My GitHub Page
 
 ## About Me
-Hi there! I'm Nacho, a passionate data scientist currently working in the field and pursuing a master's degree in Data Science at the University of Granada. My primary interests lie in data science and machine learning, and I enjoy exploring new techniques and methodologies to solve complex problems.
+Hi there! I'm Nacho, a passionate data scientist currently working in the field of Data Science. My primary interests lie in data science and machine learning, and I enjoy exploring new techniques and methodologies to solve complex problems.
 
 ## Professional Background
 I have a strong background in data science, with hands-on experience in various projects ranging from predictive modeling to deep learning. My work involves using advanced statistical methods and machine learning algorithms to derive insights and build predictive models that drive decision-making.
